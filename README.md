@@ -3,7 +3,7 @@
 This open source project aims to provide a basic landing page.
 
 <h2 align="center">
-  <a href="https://landing-page-template-three.vercel.app/" target="_blank">Basic Landing Page</a>
+  <a href="https://radish-store.github.io/home/" target="_blank">Base Landing Page</a>
 </h2>
 
 <p align="center">
